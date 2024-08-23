@@ -13,8 +13,8 @@ jobs:
 - deployment: VMDeploy
   displayName: Deploy to VM
   environment: 
-   name: First_sumativa
-   resourceName: vmyoryetDanoun
+   name: Grupo13
+   resourceName: mivm-devopsgrupo13
    resourceType: virtualMachine
   strategy:
      runOnce:
